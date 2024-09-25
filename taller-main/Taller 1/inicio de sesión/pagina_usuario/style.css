@@ -1,0 +1,69 @@
+.Fondo{
+background-color:rgb(255, 255, 255);
+}
+nav{
+    background-color: white;
+}
+.Nombre{
+    padding-top: 2%;
+    background-color: white;
+    width:170px;
+    border: 2px solid white;
+}
+a{
+    padding-left:2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    background-color: #ffb7d6;
+    border-radius: 5%;
+    color:#ff0070;
+    border: 2px solid #ff0070;
+}
+.brand{
+    width:100px;
+    height:100px;
+}
+h1{
+    padding-left: 2%;
+    padding-top:2%;
+    padding-right:2%;
+    padding-bottom:2%;
+    background-color: #fd52bb91;
+    text-align: center;
+}
+p{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: #ffdab97e;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    text-align: justify;
+}
+.User{
+    background-color: white;
+    border: 2px solid white;
+}
+.chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #d85663;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+.chat-button:hover {
+    background-color: #c04550;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color:#ffdab9b0;
+}
+    nav{
+        background-color: #ffdab92d;
+    }
+    .Nombre{
+        padding-top: 2%;
+        background-color: #ffdab92d;
+        width:170px;
+        border: 2px solid #ffdab92d;
+    }
+    a{
+        padding-left:2%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-right: 2%;
+        background-color: #ffb7d6;
+        border-radius: 5%;
+        color:#ff0070;
+        border: 2px solid #ff0070;
+    }
+    .Admin{
+        padding: 1%;
+        background-color: #ffdab92d;
+        border: 2px solid #ffdab92d;
+    }
+    .chat-button {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #d85663;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        padding: 15px;
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease;
+    }
+    .chat-button:hover {
+        background-color: #c04550;
+    }
